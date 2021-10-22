@@ -7,3 +7,8 @@ About me:
 - 💬 Ask me about Angular
 - 📫 How to reach me: https://www.linkedin.com/in/alain-boudard-2632b631/
 - ⚡ Loves: Mountain bike downhill, road bike, any bike, kitesurf, guitar, drawing
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
