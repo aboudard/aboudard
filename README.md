@@ -8,6 +8,10 @@ About me:
 - 📫 How to reach me: https://www.linkedin.com/in/alain-boudard-2632b631/
 - ⚡ Loves: Mountain bike downhill, road bike, any bike, kitesurf, guitar, drawing
 
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
