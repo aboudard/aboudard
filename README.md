@@ -17,3 +17,8 @@ About me:
 - [Starting with Angular and NgRx Store](https://coco-boudard.medium.com/starting-with-angular-and-ngrx-store-75e92c90d346?source=rss-8b3c3c9ad7a2------2)
 - [Bootstrap Custom File Input with Angular](https://coco-boudard.medium.com/bootstrap-custom-file-input-with-angular-9039681cd025?source=rss-8b3c3c9ad7a2------2)
 <!-- BLOG-POST-LIST:END -->
+
+### Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
