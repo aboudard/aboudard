@@ -23,7 +23,8 @@ About me:
 ![RxJS](https://img.shields.io/badge/rxjs-%23000000.svg?style=flat&logo=reactivex&logoColor=B7178C)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-%23000000.svg?style=flat&logo=SASS&logoColor=hotpink)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%23000000.svg?style=flat&logo=spring&logoColor=6DB33F)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=flat&logo=github&logoColor=121011)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=flat&logo=github&logoColor=wite)&nbsp;
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)&nbsp;
 
 ### 📕 Latest Blog Posts
 
