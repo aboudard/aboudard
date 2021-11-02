@@ -22,9 +22,9 @@ About me:
 ![NestJS](https://img.shields.io/badge/nestjs-%23EEEEEE.svg?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
 ![RxJS](https://img.shields.io/badge/rxjs-%23EEEEEE.svg?style=flat&logo=reactivex&logoColor=B7178C)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-%23EEEEEE.svg?style=flat&logo=SASS&logoColor=hotpink)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%23000000.svg?style=flat&logo=spring&logoColor=6DB33F)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=flat&logo=github&logoColor=wite)&nbsp;
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/spring-%23EEEEEE.svg?style=flat&logo=spring&logoColor=6DB33F)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23EEEEEE.svg?style=flat&logo=github&logoColor=000000)&nbsp;
+![GitLab](https://img.shields.io/badge/gitlab-%23EEEEEE.svg?style=flat&logo=gitlab&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-%23000000.svg?style=flat&logo=firebase)&nbsp;
 ![Heroku](https://img.shields.io/badge/heroku-%23000000.svg?style=flat&logo=heroku&logoColor=white)&nbsp;
 ![Nginx](https://img.shields.io/badge/nginx-%23000000.svg?style=flat&logo=nginx&logoColor=009639)&nbsp;
