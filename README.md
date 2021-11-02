@@ -20,6 +20,7 @@ About me:
 ![Java](https://img.shields.io/badge/java-%23000000.svg?style=flat&logo=java&logoColor=ed8b00)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/nestjs-%23000000.svg?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
+![RxJS](https://img.shields.io/badge/rxjs-%23000000.svg?style=flat&logo=reactivex&logoColor=B7178C)&nbsp;
 
 ### 📕 Latest Blog Posts
 
