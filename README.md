@@ -22,7 +22,7 @@ About me:
 ![NestJS](https://img.shields.io/badge/nestjs-%23000000.svg?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
 ![RxJS](https://img.shields.io/badge/rxjs-%23000000.svg?style=flat&logo=reactivex&logoColor=B7178C)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-%23000000.svg?style=flat&logo=SASS&logoColor=hotpink)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%23000000.svg?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![Spring](https://img.shields.io/badge/spring-%23000000.svg?style=flat&logo=spring&logoColor=6DB33F)
 
 ### 📕 Latest Blog Posts
 
