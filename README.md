@@ -32,6 +32,7 @@ About me:
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%23EEEEEE?style=flat&logo=Jasmine&logoColor=8A4182)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-%23EEEEEE?style=flat&logo=Udemy&logoColor=A435F0)&nbsp;
 ![Play Store](https://img.shields.io/badge/Google_Play-%23EEEEEE?style=flat&logo=google-play&logoColor=39bfeb)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23EEEEEE.svg?style=flat&logo=adobeillustrator&logoColor=FF9A00)&nbsp;
 
 ### 📕 Latest Blog Posts
 
