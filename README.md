@@ -31,7 +31,7 @@ About me:
 ![cypress](https://img.shields.io/badge/-cypress-%23000000?style=flat&logo=cypress&logoColor=058a5e)&nbsp;
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%23EEEEEE?style=flat&logo=Jasmine&logoColor=8A4182)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-%23000000?style=flat&logo=Udemy&logoColor=A435F0)&nbsp;
-![Play Store](https://img.shields.io/badge/Google_Play-%23EEEEEE?style=flat&logo=google-play)&nbsp;
+![Play Store](https://img.shields.io/badge/Google_Play-%23EEEEEE?style=flat&logo=google-play&logoColor=39bfeb)&nbsp;
 
 ### 📕 Latest Blog Posts
 
