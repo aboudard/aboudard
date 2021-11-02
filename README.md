@@ -16,7 +16,7 @@ About me:
 ![HTML](https://img.shields.io/badge/-HTML-%23EEEEEE?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-%23EEEEEE?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23EEEEEE?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23EEEEEE.svg?style=flat&logo=intellij-idea&logoColor=000000)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23EEEEEE.svg?style=flat&logo=java&logoColor=ed8b00)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-%23EEEEEE.svg?style=flat&logo=npm&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/nestjs-%23000000.svg?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
