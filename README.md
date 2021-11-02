@@ -19,7 +19,7 @@ About me:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23000000.svg?style=flat&logo=java&logoColor=ed8b00)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)&nbsp;
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/nestjs-%23000000.svg?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
 
 ### 📕 Latest Blog Posts
 
