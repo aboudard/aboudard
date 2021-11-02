@@ -31,6 +31,7 @@ About me:
 ![Nginx](https://img.shields.io/badge/nginx-%23EEEEEE.svg?style=flat&logo=nginx&logoColor=009639)&nbsp;
 ![cypress](https://img.shields.io/badge/-cypress-%23EEEEEE?style=flat&logo=cypress&logoColor=058a5e)&nbsp;
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%23EEEEEE?style=flat&logo=Jasmine&logoColor=8A4182)&nbsp;
+![ESLint](https://img.shields.io/badge/ESLint-%23EEEEEE?style=flat&logo=eslint&logoColor=4B3263)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-%23EEEEEE?style=flat&logo=Udemy&logoColor=A435F0)&nbsp;
 ![Play Store](https://img.shields.io/badge/Google_Play-%23EEEEEE?style=flat&logo=google-play&logoColor=39bfeb)&nbsp;
 ![Illustrator](https://img.shields.io/badge/adobeillustrator-%23EEEEEE.svg?style=flat&logo=adobeillustrator&logoColor=FF9A00)&nbsp;
