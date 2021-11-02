@@ -27,6 +27,7 @@ About me:
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-%23000000.svg?style=flat&logo=firebase)&nbsp;
 ![Heroku](https://img.shields.io/badge/heroku-%23000000.svg?style=flat&logo=heroku&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/nginx-%23000000.svg?style=flat&logo=nginx&logoColor=009639)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-%23000000?style=flat&logo=Udemy&logoColor=A435F0)&nbsp;
 
 ### 📕 Latest Blog Posts
