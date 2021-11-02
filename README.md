@@ -17,8 +17,8 @@ About me:
 ![CSS](https://img.shields.io/badge/-CSS-%23EEEEEE?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23EEEEEE?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23000000.svg?style=flat&logo=java&logoColor=ed8b00)&nbsp;
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23EEEEEE.svg?style=flat&logo=java&logoColor=ed8b00)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-%23EEEEEE.svg?style=flat&logo=npm&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/nestjs-%23000000.svg?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
 ![RxJS](https://img.shields.io/badge/rxjs-%23000000.svg?style=flat&logo=reactivex&logoColor=B7178C)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-%23000000.svg?style=flat&logo=SASS&logoColor=hotpink)&nbsp;
