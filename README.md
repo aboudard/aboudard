@@ -33,6 +33,7 @@ About me:
 ![Udemy](https://img.shields.io/badge/Udemy-%23EEEEEE?style=flat&logo=Udemy&logoColor=A435F0)&nbsp;
 ![Play Store](https://img.shields.io/badge/Google_Play-%23EEEEEE?style=flat&logo=google-play&logoColor=39bfeb)&nbsp;
 ![Illustrator](https://img.shields.io/badge/adobeillustrator-%23EEEEEE.svg?style=flat&logo=adobeillustrator&logoColor=FF9A00)&nbsp;
+![Photoshop](https://img.shields.io/badge/adobephotoshop-%23EEEEEE.svg?style=flat&logo=adobephotoshop&logoColor=31A8FF)&nbsp;
 
 ### 📕 Latest Blog Posts
 
