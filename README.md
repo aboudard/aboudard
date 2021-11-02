@@ -25,6 +25,7 @@ About me:
 ![Spring](https://img.shields.io/badge/spring-%23000000.svg?style=flat&logo=spring&logoColor=6DB33F)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=flat&logo=github&logoColor=wite)&nbsp;
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)&nbsp;
+![Udemy](https://img.shields.io/badge/Udemy-%23000000?style=flat&logo=Udemy&logoColor=A435F0)&nbsp;
 
 ### 📕 Latest Blog Posts
 
