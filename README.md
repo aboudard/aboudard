@@ -28,6 +28,7 @@ About me:
 ![Firebase](https://img.shields.io/badge/firebase-%23000000.svg?style=flat&logo=firebase)&nbsp;
 ![Heroku](https://img.shields.io/badge/heroku-%23000000.svg?style=flat&logo=heroku&logoColor=white)&nbsp;
 ![Nginx](https://img.shields.io/badge/nginx-%23000000.svg?style=flat&logo=nginx&logoColor=009639)&nbsp;
+![cypress](https://img.shields.io/badge/-cypress-%23000000?style=flat&logo=cypress&logoColor=058a5e)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-%23000000?style=flat&logo=Udemy&logoColor=A435F0)&nbsp;
 
 ### 📕 Latest Blog Posts
