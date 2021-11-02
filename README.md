@@ -21,6 +21,7 @@ About me:
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/nestjs-%23000000.svg?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
 ![RxJS](https://img.shields.io/badge/rxjs-%23000000.svg?style=flat&logo=reactivex&logoColor=B7178C)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)&nbsp;
 
 ### 📕 Latest Blog Posts
 
