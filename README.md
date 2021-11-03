@@ -50,8 +50,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/this-is-angular/ngrx-essentials-course/pull/5) in [this-is-angular/ngrx-essentials-course](https://github.com/this-is-angular/ngrx-essentials-course)
-2. 💪 Opened PR [#4](https://github.com/this-is-angular/ngrx-essentials-course/pull/4) in [this-is-angular/ngrx-essentials-course](https://github.com/this-is-angular/ngrx-essentials-course)
-3. 💪 Opened PR [#3](https://github.com/this-is-angular/ngrx-essentials-course/pull/3) in [this-is-angular/ngrx-essentials-course](https://github.com/this-is-angular/ngrx-essentials-course)
-4. ❌ Closed PR [#1](https://github.com/aboudard/ngrx-essentials-course/pull/1) in [aboudard/ngrx-essentials-course](https://github.com/aboudard/ngrx-essentials-course)
+1. 💪 Opened PR [#6](https://github.com/this-is-angular/ngrx-essentials-course/pull/6) in [this-is-angular/ngrx-essentials-course](https://github.com/this-is-angular/ngrx-essentials-course)
+2. 💪 Opened PR [#5](https://github.com/this-is-angular/ngrx-essentials-course/pull/5) in [this-is-angular/ngrx-essentials-course](https://github.com/this-is-angular/ngrx-essentials-course)
+3. 💪 Opened PR [#4](https://github.com/this-is-angular/ngrx-essentials-course/pull/4) in [this-is-angular/ngrx-essentials-course](https://github.com/this-is-angular/ngrx-essentials-course)
+4. 💪 Opened PR [#3](https://github.com/this-is-angular/ngrx-essentials-course/pull/3) in [this-is-angular/ngrx-essentials-course](https://github.com/this-is-angular/ngrx-essentials-course)
 <!--END_SECTION:activity-->
