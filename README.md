@@ -51,7 +51,7 @@ About me:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#125](https://github.com/Napster2210/ngx-spinner/issues/125) in [Napster2210/ngx-spinner](https://github.com/Napster2210/ngx-spinner)
-2. 💪 Opened PR [#6](https://github.com/this-is-angular/ngrx-essentials-course/pull/6) in [this-is-angular/ngrx-essentials-course](https://github.com/this-is-angular/ngrx-essentials-course)
+2. 🗣 Commented on [#125](https://github.com/Napster2210/ngx-spinner/issues/125) in [Napster2210/ngx-spinner](https://github.com/Napster2210/ngx-spinner)
 3. 💪 Opened PR [#5](https://github.com/this-is-angular/ngrx-essentials-course/pull/5) in [this-is-angular/ngrx-essentials-course](https://github.com/this-is-angular/ngrx-essentials-course)
 4. 💪 Opened PR [#4](https://github.com/this-is-angular/ngrx-essentials-course/pull/4) in [this-is-angular/ngrx-essentials-course](https://github.com/this-is-angular/ngrx-essentials-course)
 <!--END_SECTION:activity-->
