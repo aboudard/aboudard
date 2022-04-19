@@ -50,8 +50,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11262](https://github.com/primefaces/primeng/issues/11262) in [primefaces/primeng](https://github.com/primefaces/primeng)
-2. 🎉 Merged PR [#2](https://github.com/aboudard/springboot-ngrx-data/pull/2) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
-3. 🎉 Merged PR [#1](https://github.com/aboudard/springboot-ngrx-data/pull/1) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
-4. ❗️ Opened issue [#11262](https://github.com/primefaces/primeng/issues/11262) in [primefaces/primeng](https://github.com/primefaces/primeng)
+1. ❗️ Opened issue [#11437](https://github.com/primefaces/primeng/issues/11437) in [primefaces/primeng](https://github.com/primefaces/primeng)
+2. 🗣 Commented on [#11262](https://github.com/primefaces/primeng/issues/11262) in [primefaces/primeng](https://github.com/primefaces/primeng)
+3. 🎉 Merged PR [#2](https://github.com/aboudard/springboot-ngrx-data/pull/2) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
+4. 🎉 Merged PR [#1](https://github.com/aboudard/springboot-ngrx-data/pull/1) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
 <!--END_SECTION:activity-->
