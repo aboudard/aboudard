@@ -50,8 +50,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/aboudard/springboot-ngrx-data/pull/2) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
-2. 🎉 Merged PR [#1](https://github.com/aboudard/springboot-ngrx-data/pull/1) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
-3. ❗️ Opened issue [#11262](https://github.com/primefaces/primeng/issues/11262) in [primefaces/primeng](https://github.com/primefaces/primeng)
-4. 🗣 Commented on [#125](https://github.com/Napster2210/ngx-spinner/issues/125) in [Napster2210/ngx-spinner](https://github.com/Napster2210/ngx-spinner)
+1. 🗣 Commented on [#11262](https://github.com/primefaces/primeng/issues/11262) in [primefaces/primeng](https://github.com/primefaces/primeng)
+2. 🎉 Merged PR [#2](https://github.com/aboudard/springboot-ngrx-data/pull/2) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
+3. 🎉 Merged PR [#1](https://github.com/aboudard/springboot-ngrx-data/pull/1) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
+4. ❗️ Opened issue [#11262](https://github.com/primefaces/primeng/issues/11262) in [primefaces/primeng](https://github.com/primefaces/primeng)
 <!--END_SECTION:activity-->
