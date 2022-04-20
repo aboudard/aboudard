@@ -2,7 +2,7 @@
 
 About me:
 
-- 🔭 I’m currently working on Angular / NestJs
+- 🔭 I’m currently working on Angular / Spring Boot / NestJs
 - 🌱 I’m currently learning Rust / Devops
 - 💬 Ask me about Angular
 - 📫 How to reach me: https://www.linkedin.com/in/alain-boudard-2632b631/
