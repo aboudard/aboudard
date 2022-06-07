@@ -51,7 +51,7 @@ About me:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11565](https://github.com/primefaces/primeng/issues/11565) in [primefaces/primeng](https://github.com/primefaces/primeng)
-2. 🗣 Commented on [#11578](https://github.com/primefaces/primeng/issues/11578) in [primefaces/primeng](https://github.com/primefaces/primeng)
-3. 🗣 Commented on [#11565](https://github.com/primefaces/primeng/issues/11565) in [primefaces/primeng](https://github.com/primefaces/primeng)
+2. 🗣 Commented on [#11565](https://github.com/primefaces/primeng/issues/11565) in [primefaces/primeng](https://github.com/primefaces/primeng)
+3. 🗣 Commented on [#11578](https://github.com/primefaces/primeng/issues/11578) in [primefaces/primeng](https://github.com/primefaces/primeng)
 4. 🗣 Commented on [#11565](https://github.com/primefaces/primeng/issues/11565) in [primefaces/primeng](https://github.com/primefaces/primeng)
 <!--END_SECTION:activity-->
