@@ -37,7 +37,7 @@ About me:
 ![Illustrator](https://img.shields.io/badge/adobeillustrator-%23EEEEEE.svg?style=flat&logo=adobeillustrator&logoColor=FF9A00)&nbsp;
 ![Photoshop](https://img.shields.io/badge/adobephotoshop-%23EEEEEE.svg?style=flat&logo=adobephotoshop&logoColor=31A8FF)&nbsp;
 
-[![johannchopin's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/1903940)](https://github.com/johannchopin/stackoverflow-readme-profile)
+[![johannchopin's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/1903940)](https://stackoverflow.com/users/1903940/alain-boudard)
 
 ### 📕 Latest Blog Posts
 
