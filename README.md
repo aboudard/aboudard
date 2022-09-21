@@ -52,7 +52,7 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11565](https://github.com/primefaces/primeng/issues/11565) in [primefaces/primeng](https://github.com/primefaces/primeng)
+1. 🗣 Commented on [#125](https://github.com/timdeschryver/timdeschryver.dev/issues/125) in [timdeschryver/timdeschryver.dev](https://github.com/timdeschryver/timdeschryver.dev)
 2. 🗣 Commented on [#11565](https://github.com/primefaces/primeng/issues/11565) in [primefaces/primeng](https://github.com/primefaces/primeng)
 3. 🗣 Commented on [#11578](https://github.com/primefaces/primeng/issues/11578) in [primefaces/primeng](https://github.com/primefaces/primeng)
 4. 🗣 Commented on [#11565](https://github.com/primefaces/primeng/issues/11565) in [primefaces/primeng](https://github.com/primefaces/primeng)
