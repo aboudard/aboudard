@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/aboudard/ng-library-schematics/issues/1) in [aboudard/ng-library-schematics](https://github.com/aboudard/ng-library-schematics)
-2. 🗣 Commented on [#125](https://github.com/timdeschryver/timdeschryver.dev/issues/125) in [timdeschryver/timdeschryver.dev](https://github.com/timdeschryver/timdeschryver.dev)
-3. 🗣 Commented on [#11578](https://github.com/primefaces/primeng/issues/11578) in [primefaces/primeng](https://github.com/primefaces/primeng)
-4. 🗣 Commented on [#11565](https://github.com/primefaces/primeng/issues/11565) in [primefaces/primeng](https://github.com/primefaces/primeng)
+1. 🎉 Merged PR [#1](https://github.com/aboudard/testReword/pull/1) in [aboudard/testReword](https://github.com/aboudard/testReword)
+2. 💪 Opened PR [#1](https://github.com/aboudard/testReword/pull/1) in [aboudard/testReword](https://github.com/aboudard/testReword)
+3. 🗣 Commented on [#1](https://github.com/aboudard/ng-library-schematics/issues/1) in [aboudard/ng-library-schematics](https://github.com/aboudard/ng-library-schematics)
+4. 🗣 Commented on [#125](https://github.com/timdeschryver/timdeschryver.dev/issues/125) in [timdeschryver/timdeschryver.dev](https://github.com/timdeschryver/timdeschryver.dev)
 <!--END_SECTION:activity-->
