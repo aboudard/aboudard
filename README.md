@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/aboudard/testReword/pull/3) in [aboudard/testReword](https://github.com/aboudard/testReword)
-2. 💪 Opened PR [#3](https://github.com/aboudard/testReword/pull/3) in [aboudard/testReword](https://github.com/aboudard/testReword)
-3. 🎉 Merged PR [#2](https://github.com/aboudard/testReword/pull/2) in [aboudard/testReword](https://github.com/aboudard/testReword)
-4. 💪 Opened PR [#2](https://github.com/aboudard/testReword/pull/2) in [aboudard/testReword](https://github.com/aboudard/testReword)
+1. 🗣 Commented on [#11437](https://github.com/primefaces/primeng/issues/11437) in [primefaces/primeng](https://github.com/primefaces/primeng)
+2. 🎉 Merged PR [#3](https://github.com/aboudard/testReword/pull/3) in [aboudard/testReword](https://github.com/aboudard/testReword)
+3. 💪 Opened PR [#3](https://github.com/aboudard/testReword/pull/3) in [aboudard/testReword](https://github.com/aboudard/testReword)
+4. 🎉 Merged PR [#2](https://github.com/aboudard/testReword/pull/2) in [aboudard/testReword](https://github.com/aboudard/testReword)
 <!--END_SECTION:activity-->
