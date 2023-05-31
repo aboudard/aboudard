@@ -52,7 +52,7 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#162](https://github.com/qwikifiers/qwik-nx/issues/162) in [qwikifiers/qwik-nx](https://github.com/qwikifiers/qwik-nx)
+1. ❗ Opened issue [#162](https://github.com/qwikifiers/qwik-nx/issues/162) in [qwikifiers/qwik-nx](https://github.com/qwikifiers/qwik-nx)
 2. 🗣 Commented on [#11437](https://github.com/primefaces/primeng/issues/11437) in [primefaces/primeng](https://github.com/primefaces/primeng)
 3. 💪 Opened PR [#3](https://github.com/aboudard/testReword/pull/3) in [aboudard/testReword](https://github.com/aboudard/testReword)
 4. 🎉 Merged PR [#2](https://github.com/aboudard/testReword/pull/2) in [aboudard/testReword](https://github.com/aboudard/testReword)
