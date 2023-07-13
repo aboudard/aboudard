@@ -53,7 +53,7 @@ About me:
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/aboudard/qwik-essentials/pull/1) in [aboudard/qwik-essentials](https://github.com/aboudard/qwik-essentials)
-2. 🗣 Commented on [#8839](https://github.com/primefaces/primeng/issues/8839) in [primefaces/primeng](https://github.com/primefaces/primeng)
+2. 🗣 Commented on [#8839](https://github.com/primefaces/primeng/issues/8839#issuecomment-1607786794) in [primefaces/primeng](https://github.com/primefaces/primeng)
 3. ❗ Opened issue [#979](https://github.com/primefaces/primeicons/issues/979) in [primefaces/primeicons](https://github.com/primefaces/primeicons)
 4. ❗ Opened issue [#162](https://github.com/qwikifiers/qwik-nx/issues/162) in [qwikifiers/qwik-nx](https://github.com/qwikifiers/qwik-nx)
 <!--END_SECTION:activity-->
