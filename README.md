@@ -42,11 +42,11 @@ About me:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Angular cache with library](https://coco-boudard.medium.com/using-angular-cache-with-library-1744e5b8627b?source=rss-8b3c3c9ad7a2------2)
 - [Typing Angular PrimeNg Table templates columns](https://coco-boudard.medium.com/typing-angular-primeng-table-templates-columns-e7859df76f9b?source=rss-8b3c3c9ad7a2------2)
 - [Typing Angular PrimeNg templates](https://coco-boudard.medium.com/typing-angular-primeng-templates-7c2851f76c39?source=rss-8b3c3c9ad7a2------2)
 - [Adding css assets to Angular Library](https://coco-boudard.medium.com/adding-css-assets-to-angular-library-c22fd3a47c5d?source=rss-8b3c3c9ad7a2------2)
 - [Add schematics to Angular library](https://coco-boudard.medium.com/add-schematics-to-angular-library-bd5987328d7b?source=rss-8b3c3c9ad7a2------2)
-- [Angular NgRx Data custom selectors](https://medium.com/codex/angular-ngrx-data-custom-selectors-664f04f1637d?source=rss-8b3c3c9ad7a2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent GitHub Activity
