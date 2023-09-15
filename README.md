@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/aboudard/qwik-essentials/pull/1) in [aboudard/qwik-essentials](https://github.com/aboudard/qwik-essentials)
-2. 🗣 Commented on [#8839](https://github.com/primefaces/primeng/issues/8839#issuecomment-1607786794) in [primefaces/primeng](https://github.com/primefaces/primeng)
-3. ❗ Opened issue [#979](https://github.com/primefaces/primeicons/issues/979) in [primefaces/primeicons](https://github.com/primefaces/primeicons)
-4. ❗ Opened issue [#162](https://github.com/qwikifiers/qwik-nx/issues/162) in [qwikifiers/qwik-nx](https://github.com/qwikifiers/qwik-nx)
+1. ❌ Closed PR [#27](https://github.com/aboudard/angular-ngrx-store-starter/pull/27) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+2. ❌ Closed PR [#26](https://github.com/aboudard/angular-ngrx-store-starter/pull/26) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+3. ❌ Closed PR [#25](https://github.com/aboudard/angular-ngrx-store-starter/pull/25) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+4. ❌ Closed PR [#24](https://github.com/aboudard/angular-ngrx-store-starter/pull/24) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
 <!--END_SECTION:activity-->
