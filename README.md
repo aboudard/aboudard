@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#125](https://github.com/Napster2210/ngx-spinner/issues/125#issuecomment-1721240895) in [Napster2210/ngx-spinner](https://github.com/Napster2210/ngx-spinner)
-2. ❌ Closed PR [#27](https://github.com/aboudard/angular-ngrx-store-starter/pull/27) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
-3. ❌ Closed PR [#26](https://github.com/aboudard/angular-ngrx-store-starter/pull/26) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
-4. ❌ Closed PR [#25](https://github.com/aboudard/angular-ngrx-store-starter/pull/25) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+1. 🗣 Commented on [#11575](https://github.com/primefaces/primeng/issues/11575#issuecomment-1729006091) in [primefaces/primeng](https://github.com/primefaces/primeng)
+2. 🗣 Commented on [#125](https://github.com/Napster2210/ngx-spinner/issues/125#issuecomment-1721240895) in [Napster2210/ngx-spinner](https://github.com/Napster2210/ngx-spinner)
+3. ❌ Closed PR [#27](https://github.com/aboudard/angular-ngrx-store-starter/pull/27) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+4. ❌ Closed PR [#26](https://github.com/aboudard/angular-ngrx-store-starter/pull/26) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
 <!--END_SECTION:activity-->
