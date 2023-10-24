@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/aboudard/pn-application/pull/8) in [aboudard/pn-application](https://github.com/aboudard/pn-application)
-2. ❗ Opened issue [#13899](https://github.com/primefaces/primeng/issues/13899) in [primefaces/primeng](https://github.com/primefaces/primeng)
-3. 🗣 Commented on [#11575](https://github.com/primefaces/primeng/issues/11575#issuecomment-1764842834) in [primefaces/primeng](https://github.com/primefaces/primeng)
-4. ❗ Opened issue [#60](https://github.com/chihab/ngx-env/issues/60) in [chihab/ngx-env](https://github.com/chihab/ngx-env)
+1. ❌ Closed PR [#30](https://github.com/aboudard/angular-ngrx-store-starter/pull/30) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+2. ❌ Closed PR [#31](https://github.com/aboudard/angular-ngrx-store-starter/pull/31) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+3. ❌ Closed PR [#8](https://github.com/aboudard/pn-application/pull/8) in [aboudard/pn-application](https://github.com/aboudard/pn-application)
+4. ❗ Opened issue [#13899](https://github.com/primefaces/primeng/issues/13899) in [primefaces/primeng](https://github.com/primefaces/primeng)
 <!--END_SECTION:activity-->
