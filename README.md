@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1779](https://github.com/chakra-ui/panda/issues/1779#issuecomment-1850210613) in [chakra-ui/panda](https://github.com/chakra-ui/panda)
-2. ❗ Opened issue [#1779](https://github.com/chakra-ui/panda/issues/1779) in [chakra-ui/panda](https://github.com/chakra-ui/panda)
-3. 🗣 Commented on [#53111](https://github.com/angular/angular/issues/53111#issuecomment-1822510964) in [angular/angular](https://github.com/angular/angular)
-4. ❗ Opened issue [#53111](https://github.com/angular/angular/issues/53111) in [angular/angular](https://github.com/angular/angular)
+1. 🚀 Published release [Version 15](https://github.com/aboudard/angular-module-federation/releases/tag/v15) in [aboudard/angular-module-federation](https://github.com/aboudard/angular-module-federation)
+2. 🚀 Published release [Angular 14](https://github.com/aboudard/angular-module-federation/releases/tag/v14) in [aboudard/angular-module-federation](https://github.com/aboudard/angular-module-federation)
+3. 🗣 Commented on [#1779](https://github.com/chakra-ui/panda/issues/1779#issuecomment-1850210613) in [chakra-ui/panda](https://github.com/chakra-ui/panda)
+4. ❗ Opened issue [#1779](https://github.com/chakra-ui/panda/issues/1779) in [chakra-ui/panda](https://github.com/chakra-ui/panda)
 <!--END_SECTION:activity-->
