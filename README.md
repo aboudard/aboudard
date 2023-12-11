@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1779](https://github.com/chakra-ui/panda/issues/1779) in [chakra-ui/panda](https://github.com/chakra-ui/panda)
-2. 🗣 Commented on [#53111](https://github.com/angular/angular/issues/53111#issuecomment-1822510964) in [angular/angular](https://github.com/angular/angular)
-3. ❗ Opened issue [#53111](https://github.com/angular/angular/issues/53111) in [angular/angular](https://github.com/angular/angular)
-4. ❌ Closed PR [#30](https://github.com/aboudard/angular-ngrx-store-starter/pull/30) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+1. 🗣 Commented on [#1779](https://github.com/chakra-ui/panda/issues/1779#issuecomment-1850210613) in [chakra-ui/panda](https://github.com/chakra-ui/panda)
+2. ❗ Opened issue [#1779](https://github.com/chakra-ui/panda/issues/1779) in [chakra-ui/panda](https://github.com/chakra-ui/panda)
+3. 🗣 Commented on [#53111](https://github.com/angular/angular/issues/53111#issuecomment-1822510964) in [angular/angular](https://github.com/angular/angular)
+4. ❗ Opened issue [#53111](https://github.com/angular/angular/issues/53111) in [angular/angular](https://github.com/angular/angular)
 <!--END_SECTION:activity-->
