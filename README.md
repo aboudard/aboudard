@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/aboudard/ng-storybook-taskbox/pull/1) in [aboudard/ng-storybook-taskbox](https://github.com/aboudard/ng-storybook-taskbox)
-2. 🚀 Published release [Version 15](https://github.com/aboudard/angular-module-federation/releases/tag/v15) in [aboudard/angular-module-federation](https://github.com/aboudard/angular-module-federation)
-3. 🚀 Published release [Angular 14](https://github.com/aboudard/angular-module-federation/releases/tag/v14) in [aboudard/angular-module-federation](https://github.com/aboudard/angular-module-federation)
-4. 🗣 Commented on [#1779](https://github.com/chakra-ui/panda/issues/1779#issuecomment-1850210613) in [chakra-ui/panda](https://github.com/chakra-ui/panda)
+1. 🎉 Merged PR [#1](https://github.com/aboudard/ng-storybook-taskbox/pull/1) in [aboudard/ng-storybook-taskbox](https://github.com/aboudard/ng-storybook-taskbox)
+2. 💪 Opened PR [#1](https://github.com/aboudard/ng-storybook-taskbox/pull/1) in [aboudard/ng-storybook-taskbox](https://github.com/aboudard/ng-storybook-taskbox)
+3. 🚀 Published release [Version 15](https://github.com/aboudard/angular-module-federation/releases/tag/v15) in [aboudard/angular-module-federation](https://github.com/aboudard/angular-module-federation)
+4. 🚀 Published release [Angular 14](https://github.com/aboudard/angular-module-federation/releases/tag/v14) in [aboudard/angular-module-federation](https://github.com/aboudard/angular-module-federation)
 <!--END_SECTION:activity-->
