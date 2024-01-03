@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/aboudard/ng-storybook-taskbox/pull/1) in [aboudard/ng-storybook-taskbox](https://github.com/aboudard/ng-storybook-taskbox)
-2. 💪 Opened PR [#1](https://github.com/aboudard/ng-storybook-taskbox/pull/1) in [aboudard/ng-storybook-taskbox](https://github.com/aboudard/ng-storybook-taskbox)
-3. 🚀 Published release [Version 15](https://github.com/aboudard/angular-module-federation/releases/tag/v15) in [aboudard/angular-module-federation](https://github.com/aboudard/angular-module-federation)
-4. 🚀 Published release [Angular 14](https://github.com/aboudard/angular-module-federation/releases/tag/v14) in [aboudard/angular-module-federation](https://github.com/aboudard/angular-module-federation)
+1. 🗣 Commented on [#4067](https://github.com/ngrx/platform/issues/4067#issuecomment-1875396507) in [ngrx/platform](https://github.com/ngrx/platform)
+2. 🎉 Merged PR [#1](https://github.com/aboudard/ng-storybook-taskbox/pull/1) in [aboudard/ng-storybook-taskbox](https://github.com/aboudard/ng-storybook-taskbox)
+3. 💪 Opened PR [#1](https://github.com/aboudard/ng-storybook-taskbox/pull/1) in [aboudard/ng-storybook-taskbox](https://github.com/aboudard/ng-storybook-taskbox)
+4. 🚀 Published release [Version 15](https://github.com/aboudard/angular-module-federation/releases/tag/v15) in [aboudard/angular-module-federation](https://github.com/aboudard/angular-module-federation)
 <!--END_SECTION:activity-->
