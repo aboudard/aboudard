@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/aboudard/ng-storybook-taskbox/pull/2) in [aboudard/ng-storybook-taskbox](https://github.com/aboudard/ng-storybook-taskbox)
-2. 🗣 Commented on [#4067](https://github.com/ngrx/platform/issues/4067#issuecomment-1875396507) in [ngrx/platform](https://github.com/ngrx/platform)
-3. 🎉 Merged PR [#1](https://github.com/aboudard/ng-storybook-taskbox/pull/1) in [aboudard/ng-storybook-taskbox](https://github.com/aboudard/ng-storybook-taskbox)
-4. 💪 Opened PR [#1](https://github.com/aboudard/ng-storybook-taskbox/pull/1) in [aboudard/ng-storybook-taskbox](https://github.com/aboudard/ng-storybook-taskbox)
+1. 🎉 Merged PR [#2](https://github.com/aboudard/ng-storybook-taskbox/pull/2) in [aboudard/ng-storybook-taskbox](https://github.com/aboudard/ng-storybook-taskbox)
+2. 💪 Opened PR [#2](https://github.com/aboudard/ng-storybook-taskbox/pull/2) in [aboudard/ng-storybook-taskbox](https://github.com/aboudard/ng-storybook-taskbox)
+3. 🗣 Commented on [#4067](https://github.com/ngrx/platform/issues/4067#issuecomment-1875396507) in [ngrx/platform](https://github.com/ngrx/platform)
+4. 🎉 Merged PR [#1](https://github.com/aboudard/ng-storybook-taskbox/pull/1) in [aboudard/ng-storybook-taskbox](https://github.com/aboudard/ng-storybook-taskbox)
 <!--END_SECTION:activity-->
