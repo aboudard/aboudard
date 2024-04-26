@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/aboudard/springboot-module-federation/issues/1#issuecomment-2078750918) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
-2. ❗ Opened issue [#14937](https://github.com/primefaces/primeng/issues/14937) in [primefaces/primeng](https://github.com/primefaces/primeng)
-3. 💪 Opened PR [#2](https://github.com/aboudard/ng-storybook-taskbox/pull/2) in [aboudard/ng-storybook-taskbox](https://github.com/aboudard/ng-storybook-taskbox)
-4. 🗣 Commented on [#4067](https://github.com/ngrx/platform/issues/4067#issuecomment-1875396507) in [ngrx/platform](https://github.com/ngrx/platform)
+1. 🔒 Closed issue [#1](https://github.com/aboudard/springboot-module-federation/issues/1) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
+2. 🎉 Merged PR [#2](https://github.com/aboudard/springboot-module-federation/pull/2) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
+3. 💪 Opened PR [#2](https://github.com/aboudard/springboot-module-federation/pull/2) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
+4. 🗣 Commented on [#1](https://github.com/aboudard/springboot-module-federation/issues/1#issuecomment-2078750918) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
 <!--END_SECTION:activity-->
