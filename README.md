@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/aboudard/springboot-module-federation/issues/1) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
-2. 🎉 Merged PR [#2](https://github.com/aboudard/springboot-module-federation/pull/2) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
-3. 💪 Opened PR [#2](https://github.com/aboudard/springboot-module-federation/pull/2) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
-4. 🗣 Commented on [#1](https://github.com/aboudard/springboot-module-federation/issues/1#issuecomment-2078750918) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
+1. 🗣 Commented on [#1](https://github.com/aboudard/springboot-module-federation/issues/1#issuecomment-2079746487) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
+2. 🔒 Closed issue [#1](https://github.com/aboudard/springboot-module-federation/issues/1) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
+3. 🎉 Merged PR [#2](https://github.com/aboudard/springboot-module-federation/pull/2) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
+4. 💪 Opened PR [#2](https://github.com/aboudard/springboot-module-federation/pull/2) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
 <!--END_SECTION:activity-->
