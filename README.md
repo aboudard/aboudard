@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/aboudard/springboot-module-federation/issues/1#issuecomment-2082182953) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
-2. 🗣 Commented on [#1](https://github.com/aboudard/springboot-module-federation/issues/1#issuecomment-2081470284) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
-3. 🗣 Commented on [#1](https://github.com/aboudard/springboot-module-federation/issues/1#issuecomment-2079746487) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
-4. 🔒 Closed issue [#1](https://github.com/aboudard/springboot-module-federation/issues/1) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
+1. 🗣 Commented on [#1](https://github.com/aboudard/springboot-module-federation/issues/1#issuecomment-2084728590) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
+2. 🗣 Commented on [#1](https://github.com/aboudard/springboot-module-federation/issues/1#issuecomment-2082182953) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
+3. 🗣 Commented on [#1](https://github.com/aboudard/springboot-module-federation/issues/1#issuecomment-2081470284) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
+4. 🗣 Commented on [#1](https://github.com/aboudard/springboot-module-federation/issues/1#issuecomment-2079746487) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
 <!--END_SECTION:activity-->
