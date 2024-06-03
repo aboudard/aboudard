@@ -42,11 +42,11 @@ About me:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular inputs &amp; lifecycle](https://coco-boudard.medium.com/angular-inputs-lifecycle-3f12f1d04025?source=rss-8b3c3c9ad7a2------2)
 - [Angular library lazy loading — part 2](https://coco-boudard.medium.com/angular-library-lazy-loading-part-2-f26f6d4d2748?source=rss-8b3c3c9ad7a2------2)
 - [Angular library lazy loading](https://coco-boudard.medium.com/angular-library-lazy-loading-897b3064e479?source=rss-8b3c3c9ad7a2------2)
 - [Adding scss assets to Angular library](https://coco-boudard.medium.com/adding-scss-assets-to-angular-library-33a9ed0654fa?source=rss-8b3c3c9ad7a2------2)
 - [Using Angular cache with library](https://coco-boudard.medium.com/using-angular-cache-with-library-1744e5b8627b?source=rss-8b3c3c9ad7a2------2)
-- [Typing Angular PrimeNg Table templates columns](https://coco-boudard.medium.com/typing-angular-primeng-table-templates-columns-e7859df76f9b?source=rss-8b3c3c9ad7a2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent GitHub Activity
