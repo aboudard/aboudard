@@ -3,7 +3,7 @@
 About me:
 
 - 🔭 I’m currently working on Angular / Spring Boot / NestJs
-- 🌱 I’m currently learning Qwik https://qwik.builder.io/ / Devops
+- 🌱 I’m currently learning Qwik https://qwik.dev/ / Devops
 - 💬 Ask me about Angular
 - 📫 How to reach me: https://www.linkedin.com/in/alain-boudard-2632b631/
 - ⚡ Loves: Mountain bike downhill, road bike, any bike, kitesurf, guitar, drawing
