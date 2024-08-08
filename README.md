@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/aboudard/springboot-module-federation/pull/3) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
-2. 🗣 Commented on [#8966](https://github.com/withastro/docs/pull/8966#issuecomment-2260649251) in [withastro/docs](https://github.com/withastro/docs)
-3. 💪 Opened PR [#8966](https://github.com/withastro/docs/pull/8966) in [withastro/docs](https://github.com/withastro/docs)
-4. 🗣 Commented on [#56155](https://github.com/angular/angular/issues/56155#issuecomment-2138901986) in [angular/angular](https://github.com/angular/angular)
+1. 🎉 Merged PR [#3](https://github.com/aboudard/springboot-module-federation/pull/3) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
+2. 💪 Opened PR [#3](https://github.com/aboudard/springboot-module-federation/pull/3) in [aboudard/springboot-module-federation](https://github.com/aboudard/springboot-module-federation)
+3. 🗣 Commented on [#8966](https://github.com/withastro/docs/pull/8966#issuecomment-2260649251) in [withastro/docs](https://github.com/withastro/docs)
+4. 💪 Opened PR [#8966](https://github.com/withastro/docs/pull/8966) in [withastro/docs](https://github.com/withastro/docs)
 <!--END_SECTION:activity-->
