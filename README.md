@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/aboudard/angular-testing/pull/2) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
-2. 💪 Opened PR [#21](https://github.com/aboudard/springboot-ngrx-data/pull/21) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
-3. 💪 Opened PR [#20](https://github.com/aboudard/springboot-ngrx-data/pull/20) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
-4. 💪 Opened PR [#19](https://github.com/aboudard/springboot-ngrx-data/pull/19) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
+1. ❗ Opened issue [#16721](https://github.com/primefaces/primeng/issues/16721) in [primefaces/primeng](https://github.com/primefaces/primeng)
+2. 💪 Opened PR [#2](https://github.com/aboudard/angular-testing/pull/2) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
+3. 💪 Opened PR [#21](https://github.com/aboudard/springboot-ngrx-data/pull/21) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
+4. 💪 Opened PR [#20](https://github.com/aboudard/springboot-ngrx-data/pull/20) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
 <!--END_SECTION:activity-->
