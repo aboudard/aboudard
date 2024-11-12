@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4581](https://github.com/ngrx/platform/issues/4581#issuecomment-2469044898) in [ngrx/platform](https://github.com/ngrx/platform)
-2. ❗ Opened issue [#16721](https://github.com/primefaces/primeng/issues/16721) in [primefaces/primeng](https://github.com/primefaces/primeng)
-3. 💪 Opened PR [#2](https://github.com/aboudard/angular-testing/pull/2) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
-4. 💪 Opened PR [#21](https://github.com/aboudard/springboot-ngrx-data/pull/21) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
+1. 💪 Opened PR [#22](https://github.com/aboudard/springboot-ngrx-data/pull/22) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
+2. 🗣 Commented on [#4581](https://github.com/ngrx/platform/issues/4581#issuecomment-2469044898) in [ngrx/platform](https://github.com/ngrx/platform)
+3. ❗ Opened issue [#16721](https://github.com/primefaces/primeng/issues/16721) in [primefaces/primeng](https://github.com/primefaces/primeng)
+4. 💪 Opened PR [#2](https://github.com/aboudard/angular-testing/pull/2) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
 <!--END_SECTION:activity-->
