@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/aboudard/angular-testing/pull/2) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
-2. 💪 Opened PR [#22](https://github.com/aboudard/springboot-ngrx-data/pull/22) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
-3. 🗣 Commented on [#4581](https://github.com/ngrx/platform/issues/4581#issuecomment-2469044898) in [ngrx/platform](https://github.com/ngrx/platform)
-4. ❗ Opened issue [#16721](https://github.com/primefaces/primeng/issues/16721) in [primefaces/primeng](https://github.com/primefaces/primeng)
+1. ❗ Opened issue [#58628](https://github.com/angular/angular/issues/58628) in [angular/angular](https://github.com/angular/angular)
+2. 🎉 Merged PR [#2](https://github.com/aboudard/angular-testing/pull/2) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
+3. 💪 Opened PR [#22](https://github.com/aboudard/springboot-ngrx-data/pull/22) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
+4. 🗣 Commented on [#4581](https://github.com/ngrx/platform/issues/4581#issuecomment-2469044898) in [ngrx/platform](https://github.com/ngrx/platform)
 <!--END_SECTION:activity-->
