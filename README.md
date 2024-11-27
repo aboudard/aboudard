@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16852](https://github.com/primefaces/primeng/issues/16852) in [primefaces/primeng](https://github.com/primefaces/primeng)
-2. 💪 Opened PR [#3](https://github.com/aboudard/angular-testing/pull/3) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
-3. 🗣 Commented on [#16745](https://github.com/primefaces/primeng/issues/16745#issuecomment-2489611550) in [primefaces/primeng](https://github.com/primefaces/primeng)
-4. 🗣 Commented on [#16745](https://github.com/primefaces/primeng/issues/16745#issuecomment-2488767268) in [primefaces/primeng](https://github.com/primefaces/primeng)
+1. 🗣 Commented on [#16852](https://github.com/primefaces/primeng/issues/16852#issuecomment-2502049983) in [primefaces/primeng](https://github.com/primefaces/primeng)
+2. ❗ Opened issue [#16852](https://github.com/primefaces/primeng/issues/16852) in [primefaces/primeng](https://github.com/primefaces/primeng)
+3. 💪 Opened PR [#3](https://github.com/aboudard/angular-testing/pull/3) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
+4. 🗣 Commented on [#16745](https://github.com/primefaces/primeng/issues/16745#issuecomment-2489611550) in [primefaces/primeng](https://github.com/primefaces/primeng)
 <!--END_SECTION:activity-->
