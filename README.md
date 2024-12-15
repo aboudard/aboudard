@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16745](https://github.com/primefaces/primeng/issues/16745#issuecomment-2521324375) in [primefaces/primeng](https://github.com/primefaces/primeng)
-2. 💪 Opened PR [#58942](https://github.com/angular/angular/pull/58942) in [angular/angular](https://github.com/angular/angular)
-3. 🗣 Commented on [#16852](https://github.com/primefaces/primeng/issues/16852#issuecomment-2502049983) in [primefaces/primeng](https://github.com/primefaces/primeng)
-4. ❗ Opened issue [#16852](https://github.com/primefaces/primeng/issues/16852) in [primefaces/primeng](https://github.com/primefaces/primeng)
+1. 💪 Opened PR [#23](https://github.com/aboudard/springboot-ngrx-data/pull/23) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
+2. 🗣 Commented on [#16745](https://github.com/primefaces/primeng/issues/16745#issuecomment-2521324375) in [primefaces/primeng](https://github.com/primefaces/primeng)
+3. 💪 Opened PR [#58942](https://github.com/angular/angular/pull/58942) in [angular/angular](https://github.com/angular/angular)
+4. 🗣 Commented on [#16852](https://github.com/primefaces/primeng/issues/16852#issuecomment-2502049983) in [primefaces/primeng](https://github.com/primefaces/primeng)
 <!--END_SECTION:activity-->
