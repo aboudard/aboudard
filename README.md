@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#35](https://github.com/aboudard/angular-ngrx-store-starter/pull/35) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
-2. ❌ Closed PR [#34](https://github.com/aboudard/angular-ngrx-store-starter/pull/34) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
-3. ❌ Closed PR [#33](https://github.com/aboudard/angular-ngrx-store-starter/pull/33) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
-4. 🗣 Commented on [#59665](https://github.com/angular/angular/issues/59665#issuecomment-2609218743) in [angular/angular](https://github.com/angular/angular)
+1. ❌ Closed PR [#36](https://github.com/aboudard/angular-ngrx-store-starter/pull/36) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+2. ❌ Closed PR [#35](https://github.com/aboudard/angular-ngrx-store-starter/pull/35) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+3. ❌ Closed PR [#34](https://github.com/aboudard/angular-ngrx-store-starter/pull/34) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+4. ❌ Closed PR [#33](https://github.com/aboudard/angular-ngrx-store-starter/pull/33) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
 <!--END_SECTION:activity-->
