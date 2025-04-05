@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60637](https://github.com/angular/angular/issues/60637#issuecomment-2772299753) in [angular/angular](https://github.com/angular/angular)
-2. 💪 Opened PR [#4](https://github.com/aboudard/angular-testing/pull/4) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
-3. 🚀 Published release [Version 15](https://github.com/aboudard/angular-playwright-wrk/releases/tag/v15) in [aboudard/angular-playwright-wrk](https://github.com/aboudard/angular-playwright-wrk)
-4. ❌ Closed PR [#33](https://github.com/aboudard/angular-ngrx-store-starter/pull/33) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+1. 🗣 Commented on [#60724](https://github.com/angular/angular/pull/60724#issuecomment-2777916781) in [angular/angular](https://github.com/angular/angular)
+2. 🗣 Commented on [#60637](https://github.com/angular/angular/issues/60637#issuecomment-2772299753) in [angular/angular](https://github.com/angular/angular)
+3. 💪 Opened PR [#4](https://github.com/aboudard/angular-testing/pull/4) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
+4. 🚀 Published release [Version 15](https://github.com/aboudard/angular-playwright-wrk/releases/tag/v15) in [aboudard/angular-playwright-wrk](https://github.com/aboudard/angular-playwright-wrk)
 <!--END_SECTION:activity-->
