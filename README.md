@@ -52,7 +52,7 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1292](https://github.com/tomalaforge/angular-challenges/pull/1292) in [tomalaforge/angular-challenges](https://github.com/tomalaforge/angular-challenges)
+1. 💪 Opened PR [#24](https://github.com/aboudard/springboot-ngrx-data/pull/24) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
 2. 🗣 Commented on [#60724](https://github.com/angular/angular/pull/60724#issuecomment-2777916781) in [angular/angular](https://github.com/angular/angular)
 3. 🗣 Commented on [#60637](https://github.com/angular/angular/issues/60637#issuecomment-2772299753) in [angular/angular](https://github.com/angular/angular)
 4. 💪 Opened PR [#4](https://github.com/aboudard/angular-testing/pull/4) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
