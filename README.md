@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/aboudard/springboot-ngrx-data/pull/25) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
-2. 🗣 Commented on [#32206](https://github.com/nuxt/nuxt/issues/32206#issuecomment-2930328087) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
-3. 💪 Opened PR [#24](https://github.com/aboudard/springboot-ngrx-data/pull/24) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
-4. 💪 Opened PR [#4](https://github.com/aboudard/angular-testing/pull/4) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
+1. ❌ Closed PR [#1](https://github.com/aboudard/bootstrap-schematics/pull/1) in [aboudard/bootstrap-schematics](https://github.com/aboudard/bootstrap-schematics)
+2. ❌ Closed PR [#2](https://github.com/aboudard/bootstrap-schematics/pull/2) in [aboudard/bootstrap-schematics](https://github.com/aboudard/bootstrap-schematics)
+3. ❌ Closed PR [#5](https://github.com/aboudard/bootstrap-schematics/pull/5) in [aboudard/bootstrap-schematics](https://github.com/aboudard/bootstrap-schematics)
+4. ❌ Closed PR [#6](https://github.com/aboudard/bootstrap-schematics/pull/6) in [aboudard/bootstrap-schematics](https://github.com/aboudard/bootstrap-schematics)
 <!--END_SECTION:activity-->
