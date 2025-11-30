@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7400](https://github.com/primefaces/primevue/issues/7400#issuecomment-3591514036) in [primefaces/primevue](https://github.com/primefaces/primevue)
-2. 🗣 Commented on [#7945](https://github.com/primefaces/primevue/issues/7945#issuecomment-3591509866) in [primefaces/primevue](https://github.com/primefaces/primevue)
-3. 🗣 Commented on [#7945](https://github.com/primefaces/primevue/issues/7945#issuecomment-3586793210) in [primefaces/primevue](https://github.com/primefaces/primevue)
-4. ❌ Closed PR [#6](https://github.com/aboudard/bootstrap-schematics/pull/6) in [aboudard/bootstrap-schematics](https://github.com/aboudard/bootstrap-schematics)
+1. 💪 Opened PR [#26](undefined) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
+2. 🗣 Commented on [#7400](https://github.com/primefaces/primevue/issues/7400#issuecomment-3591514036) in [primefaces/primevue](https://github.com/primefaces/primevue)
+3. 🗣 Commented on [#7945](https://github.com/primefaces/primevue/issues/7945#issuecomment-3591509866) in [primefaces/primevue](https://github.com/primefaces/primevue)
+4. 🗣 Commented on [#7945](https://github.com/primefaces/primevue/issues/7945#issuecomment-3586793210) in [primefaces/primevue](https://github.com/primefaces/primevue)
 <!--END_SECTION:activity-->
