@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](undefined) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
-2. 💪 Opened PR [#5](undefined) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
-3. 💪 Opened PR [#26](undefined) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
-4. 🗣 Commented on [#7400](https://github.com/primefaces/primevue/issues/7400#issuecomment-3591514036) in [primefaces/primevue](https://github.com/primefaces/primevue)
+1. 💪 Opened PR [#27](undefined) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
+2. 💪 Opened PR [#6](undefined) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
+3. 💪 Opened PR [#5](undefined) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
+4. 💪 Opened PR [#26](undefined) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
 <!--END_SECTION:activity-->
