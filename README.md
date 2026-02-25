@@ -52,7 +52,7 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/aboudard/angular-testing/pull/7) in [aboudard/angular-testing](https://github.com/aboudard/angular-testing)
+1. 🗣 Commented on [#214](https://github.com/primefaces/primeuix/issues/214#issuecomment-3960682385) in [primefaces/primeuix](https://github.com/primefaces/primeuix)
 2. 💪 Opened PR [#28](https://github.com/aboudard/springboot-ngrx-data/pull/28) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
 3. ❗ Opened issue [#214](https://github.com/primefaces/primeuix/issues/214) in [primefaces/primeuix](https://github.com/primefaces/primeuix)
 4. 💪 Opened PR [#1](https://github.com/aboudard/primevue-custom-editor/pull/1) in [aboudard/primevue-custom-editor](https://github.com/aboudard/primevue-custom-editor)
