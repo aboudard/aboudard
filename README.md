@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/aboudard/html-dialog/pull/2) in [aboudard/html-dialog](https://github.com/aboudard/html-dialog)
-2. 💪 Opened PR [#2](https://github.com/aboudard/html-dialog/pull/2) in [aboudard/html-dialog](https://github.com/aboudard/html-dialog)
-3. ❗ Opened issue [#214](https://github.com/primefaces/primeuix/issues/214) in [primefaces/primeuix](https://github.com/primefaces/primeuix)
-4. 💪 Opened PR [#1](https://github.com/aboudard/primevue-custom-editor/pull/1) in [aboudard/primevue-custom-editor](https://github.com/aboudard/primevue-custom-editor)
+1. ❗ Opened issue [#39](https://github.com/aboudard/angular-ngrx-store-starter/issues/39) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+2. 🎉 Merged PR [#40](https://github.com/aboudard/angular-ngrx-store-starter/pull/40) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+3. 🔒 Closed issue [#39](https://github.com/aboudard/angular-ngrx-store-starter/issues/39) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+4. ℹ️ Assigned PR [#40](https://github.com/aboudard/angular-ngrx-store-starter/pull/40) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
 <!--END_SECTION:activity-->
