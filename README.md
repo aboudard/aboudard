@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V17](https://github.com/aboudard/angular-ngrx-store-starter/releases/tag/v17) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
-2. ℹ️ Labeled issue [#41](https://github.com/aboudard/angular-ngrx-store-starter/issues/41) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
-3. 🔒 Closed issue [#41](https://github.com/aboudard/angular-ngrx-store-starter/issues/41) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
-4. ℹ️ Labeled PR [#42](https://github.com/aboudard/angular-ngrx-store-starter/pull/42) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+1. 🎉 Merged PR [#42](https://github.com/aboudard/angular-ngrx-store-starter/pull/42) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+2. 🚀 Published release [V17](https://github.com/aboudard/angular-ngrx-store-starter/releases/tag/v17) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+3. ℹ️ Labeled issue [#41](https://github.com/aboudard/angular-ngrx-store-starter/issues/41) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+4. 🔒 Closed issue [#41](https://github.com/aboudard/angular-ngrx-store-starter/issues/41) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
 <!--END_SECTION:activity-->
