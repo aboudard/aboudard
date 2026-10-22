@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/cocodesbois/ranma-dress-up/pull/1) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
-2. 🎉 Merged PR [#42](https://github.com/aboudard/angular-ngrx-store-starter/pull/42) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
-3. 🚀 Published release [V17](https://github.com/aboudard/angular-ngrx-store-starter/releases/tag/v17) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
-4. ℹ️ Labeled issue [#41](https://github.com/aboudard/angular-ngrx-store-starter/issues/41) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+1. 💪 Opened PR [#2](https://github.com/cocodesbois/ranma-dress-up/pull/2) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
+2. 💪 Opened PR [#1](https://github.com/cocodesbois/ranma-dress-up/pull/1) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
+3. 🎉 Merged PR [#42](https://github.com/aboudard/angular-ngrx-store-starter/pull/42) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
+4. 🚀 Published release [V17](https://github.com/aboudard/angular-ngrx-store-starter/releases/tag/v17) in [aboudard/angular-ngrx-store-starter](https://github.com/aboudard/angular-ngrx-store-starter)
 <!--END_SECTION:activity-->
