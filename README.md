@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/aboudard/claude-design-app/pull/10) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
-2. 🎉 Merged PR [#7](https://github.com/aboudard/claude-design-app/pull/7) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
-3. 🎉 Merged PR [#9](https://github.com/aboudard/claude-design-app/pull/9) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
-4. 🎉 Merged PR [#8](https://github.com/aboudard/claude-design-app/pull/8) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
+1. 🎉 Merged PR [#11](https://github.com/aboudard/claude-design-app/pull/11) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
+2. 🔒 Closed issue [#3](https://github.com/aboudard/claude-design-app/issues/3) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
+3. 🎉 Merged PR [#10](https://github.com/aboudard/claude-design-app/pull/10) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
+4. 🎉 Merged PR [#7](https://github.com/aboudard/claude-design-app/pull/7) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
 <!--END_SECTION:activity-->
