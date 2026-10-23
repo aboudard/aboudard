@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/aboudard/claude-design-app/pull/11) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
-2. 💪 Opened PR [#10](https://github.com/aboudard/claude-design-app/pull/10) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
-3. 🔒 Closed issue [#2](https://github.com/aboudard/claude-design-app/issues/2) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
-4. ℹ️ Assigned PR [#9](https://github.com/aboudard/claude-design-app/pull/9) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
+1. ℹ️ Labeled PR [#11](https://github.com/aboudard/claude-design-app/pull/11) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
+2. 💪 Opened PR [#11](https://github.com/aboudard/claude-design-app/pull/11) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
+3. 💪 Opened PR [#10](https://github.com/aboudard/claude-design-app/pull/10) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
+4. 🔒 Closed issue [#2](https://github.com/aboudard/claude-design-app/issues/2) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
 <!--END_SECTION:activity-->
