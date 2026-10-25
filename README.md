@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/cocodesbois/ranma-dress-up/pull/5) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
-2. 🎉 Merged PR [#4](https://github.com/cocodesbois/ranma-dress-up/pull/4) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
-3. 🗣 Commented on [#4](https://github.com/cocodesbois/ranma-dress-up/pull/4#issuecomment-6390182502) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
-4. 💪 Opened PR [#4](https://github.com/cocodesbois/ranma-dress-up/pull/4) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
+1. 🎉 Merged PR [#8](https://github.com/cocodesbois/ranma-dress-up/pull/8) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
+2. ℹ️ Assigned PR [#8](https://github.com/cocodesbois/ranma-dress-up/pull/8) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
+3. ℹ️ Labeled PR [#8](https://github.com/cocodesbois/ranma-dress-up/pull/8) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
+4. 💪 Opened PR [#8](https://github.com/cocodesbois/ranma-dress-up/pull/8) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
 <!--END_SECTION:activity-->
