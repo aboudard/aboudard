@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/aboudard/claude-design-app/pull/12) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
-2. 🔒 Closed issue [#5](https://github.com/aboudard/claude-design-app/issues/5) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
-3. ℹ️ Assigned PR [#12](https://github.com/aboudard/claude-design-app/pull/12) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
-4. ℹ️ Labeled PR [#12](https://github.com/aboudard/claude-design-app/pull/12) in [aboudard/claude-design-app](https://github.com/aboudard/claude-design-app)
+1. 🎉 Merged PR [#12](https://github.com/cocodesbois/ranma-dress-up/pull/12) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
+2. ℹ️ Assigned PR [#12](https://github.com/cocodesbois/ranma-dress-up/pull/12) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
+3. ℹ️ Labeled PR [#12](https://github.com/cocodesbois/ranma-dress-up/pull/12) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
+4. 💪 Opened PR [#12](https://github.com/cocodesbois/ranma-dress-up/pull/12) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
 <!--END_SECTION:activity-->
