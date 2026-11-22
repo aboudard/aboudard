@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/cocodesbois/ranma-dress-up/pull/66) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
-2. 💪 Opened PR [#66](https://github.com/cocodesbois/ranma-dress-up/pull/66) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
-3. 🎉 Merged PR [#65](https://github.com/cocodesbois/ranma-dress-up/pull/65) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
-4. ℹ️ Assigned PR [#65](https://github.com/cocodesbois/ranma-dress-up/pull/65) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
+1. 💪 Opened PR [#29](https://github.com/aboudard/springboot-ngrx-data/pull/29) in [aboudard/springboot-ngrx-data](https://github.com/aboudard/springboot-ngrx-data)
+2. 🎉 Merged PR [#66](https://github.com/cocodesbois/ranma-dress-up/pull/66) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
+3. 💪 Opened PR [#66](https://github.com/cocodesbois/ranma-dress-up/pull/66) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
+4. 🎉 Merged PR [#65](https://github.com/cocodesbois/ranma-dress-up/pull/65) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
 <!--END_SECTION:activity-->
