@@ -52,8 +52,8 @@ About me:
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#76](https://github.com/cocodesbois/ranma-dress-up/pull/76) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
-2. ℹ️ Assigned PR [#76](https://github.com/cocodesbois/ranma-dress-up/pull/76) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
-3. ℹ️ Labeled PR [#76](https://github.com/cocodesbois/ranma-dress-up/pull/76) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
-4. 💪 Opened PR [#76](https://github.com/cocodesbois/ranma-dress-up/pull/76) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
+1. 💪 Opened PR [#3](https://github.com/aboudard/primeuix-preset-dsfr/pull/3) in [aboudard/primeuix-preset-dsfr](https://github.com/aboudard/primeuix-preset-dsfr)
+2. 🎉 Merged PR [#2](https://github.com/aboudard/primeuix-preset-dsfr/pull/2) in [aboudard/primeuix-preset-dsfr](https://github.com/aboudard/primeuix-preset-dsfr)
+3. 🎉 Merged PR [#76](https://github.com/cocodesbois/ranma-dress-up/pull/76) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
+4. ℹ️ Assigned PR [#76](https://github.com/cocodesbois/ranma-dress-up/pull/76) in [cocodesbois/ranma-dress-up](https://github.com/cocodesbois/ranma-dress-up)
 <!--END_SECTION:activity-->
